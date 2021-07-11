@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#map {
+  width: 70%;
+  height: 90vh;
+  border: 3px solid green;
+}
